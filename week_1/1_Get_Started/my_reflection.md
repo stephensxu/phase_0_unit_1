@@ -6,7 +6,7 @@
 * Why do developers use version control (git)? Does that make sense to you? Why or why not?
 * What doesn't make sense? What does?
 
-<!-- Add your reflection here. Remove the comment markers -->
+-- Add your reflection here. Remove the comment markers -->
 
 * Initially the setting up GitHub part was relatively intuitive for me. The set-up process have opened my eyes about Git and Gighub and immediatly I understood the power that's behind these two important tools: collaboration and source sharing between engineers. 
 

@@ -7,7 +7,7 @@
 * What concepts were solidified in the challenge? Did you have any "aha" moments? What did you struggle with?
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
 
-<!-- Add your reflection here. Remove the comment markers -->
+-- Add your reflection here. Remove the comment markers -->
 
 * To creating repository on GitHub; go to the home page, on the upper-right hand corner click the "+" sign, then click on "New Repository". At the creation page, type in the desired name for the repository and click "Create repository" at bottom of the page. Once that's done; oppen up Github app, find the name of the newly created repository and click "clone to computer" tab.
 
