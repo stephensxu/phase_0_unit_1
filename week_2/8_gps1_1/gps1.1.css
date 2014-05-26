@@ -1,1 +1,15 @@
 /* include your css here */
+.container{
+      margin: 0 auto;
+      background-color:red;
+     }
+     
+.bod2 {
+        background:blue; 
+     }
+     
+.nav{
+      width:100px;
+      height:500px;
+      float:left;
+     }
