@@ -7,7 +7,8 @@ Define the following commands and describe how they work/what they do.
 A: Add/stages file to git, in other words it allows git to track these files.
 
 #### branch
-<!-- Your defnition here -->
+A: This command create a seperate branch from the master; allowing user to make modificatin to files while keeping the master branch intact. 
+
 
 #### checkout
 <!-- Your defnition here -->
