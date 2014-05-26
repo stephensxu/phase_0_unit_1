@@ -4,6 +4,7 @@ Define the following commands and describe how they work/what they do.
 
 #### add
 <!-- Your defnition here -->
+A: Add/stages file to git, in other words it allows git to track these files.
 
 #### branch
 <!-- Your defnition here -->
