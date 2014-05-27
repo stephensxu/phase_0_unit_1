@@ -57,8 +57,13 @@ A: This command allows user to see the current commit status of a repo; it will 
 ## Release 4: Git Workflow
 
 - Push files to a remote repository
+A: "git add ." --> "git commit"  --> "git push"
+
 - Fetch changes
+A: "git add upstream <url>" --> "git fetch upstream" --> "git checkout master" --> "git merge upstream/master"
+
 - Commit locally
+A: "git add ." --> "git commit"
 
 ## Release 5: Errors you encountered
 1. Error
