@@ -1,23 +1,26 @@
-// I paired [by myself, with:] on this challenge.
+// I paired by myself on this challenge.
 
 // __________________________________________
 // Write your code below.
 
-
-
-
-
+var secretNumber = 7
+var password = "just open the door"
+var allowedIn = false
+var members = ["John", "Stephens", "Joyce", "Mary"]
 
 
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
 // 
-// 
-// 
-// 
-// 
-// 
+// Reflection: First I read through all the tests and see if there are overlaps. If I
+// am able to solve couple tests in one try it would save me time. Over-all this test 
+// is relatively simple and I believe it is meant for us to learn the basic of TDD, which
+// I personly LOVE. I believe TDD is a brilliant way for code development because it allow
+// me to test, correct bugs on the go. It also give me error messages which tells me what's 
+// wrong with me current code and allow me to go to right direction. I really enjoy the process
+// of TDD. I am confident with each of the Learning Competencies and id not find anything tedious
+// in this particular challenge.
 
 
 // __________________________________________
@@ -71,7 +74,7 @@ assert(
 assert(
   members instanceof Array,
   "The value of members should be an array",
-  "7. "
+  "7. " 
 )
 
 assert(
