@@ -64,3 +64,16 @@ function median(array) {
 
 
 //---------------------------------------------------------------------------------------
+// Reflection.
+
+// During this challenge, the most difficult part for me was really understanidng the pseudocode
+// that  was passed to me by my previous person. Some of the pseudocode has logical flaw in itself
+// and wasn't possible to implement at all, because the resulting code would return error or undefined.
+// So I had to communicate with my previous person to correct that. Overall I believe this experience
+// is very good practice for a group of people to communicate with each other even when we are working
+// remotely. My group have succesfully passed the tests. I learned that communication is an essential
+// part of the software development world. Not only it is important to communicate my ideas to my 
+// colleagues, it is also important to fully understand what my other teamates are trying to tell me
+// as well. At the end of challenge I am confident about the learning objectives. I found that 
+// the process of turning pseudocode into real working code is a pleasent experience.
+
